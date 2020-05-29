@@ -1,0 +1,164 @@
+
+body {
+  font-family: 'Montserrat', sans-serif !important;
+  text-align: center;
+}
+
+hr {
+  width: 70%;
+}
+
+/* Promo bar
+.promo-bar {
+  text-align: center;
+  background-color: #8ac6d1;
+  font-family: 'Raleway Dots', cursive;
+  font-weight: bold;
+  padding: 2px 0;
+}
+*/
+
+/* Top links */
+.top-left {
+  font-size: 25px;
+  padding: 10px 20px;
+}
+.top-right {
+  position: absolute;
+  top: 10px;
+  right: 40px;
+}
+
+/* Media */
+.media {
+  padding: 10px;
+  font-size: 50px;
+}
+.fa-instagram:hover {
+  color: #d15a7c;
+}
+.fa-youtube:hover {
+  color: #e84a5f;
+}
+.fa-whatsapp:hover {
+  color: #21bf73;
+}
+.fa-envelope:hover {
+  color: #a1e6e3;
+}
+.fa-phone:hover {
+  color: grey;
+}
+
+/* Links */
+a {
+  color: #3f3f44 !important;
+}
+.languages:hover {
+  color: grey !important;
+  text-decoration: none !important;
+}
+#home:hover { background-color: #ffe277; transition: all 1s ease; }
+#lessons:hover { background-color: #af8baf; transition: all 1s ease; }
+#biography:hover { background-color: #ee8572; transition: all 1s ease; }
+#students:hover { background-color: #cceabb; transition: all 1s ease; }
+#contact:hover { background-color: #bbded6; transition: all 1s ease; }
+#gallery:hover { background-color: #ffb6b9; transition: all 1s ease; }
+.defined-link {
+  color: #1b6ca8 !important;
+}
+/* Title */
+.jumbotron {
+  padding: 50px 20px !important;
+  margin: 0 !important;
+  background-color: white !important;
+}
+.main-title {
+  font-family: 'Poiret One', cursive;
+  font-size: 9rem;
+  outline-width: 2px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.second-title {
+  font-family: 'Raleway Dots', cursive;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin: 0;
+  text-align: center;
+}
+
+/* Navbar */
+.navbar {
+  font-size: 20px;
+  color: black;
+  background-color: white;
+}
+
+/* Main Page Container */
+.container-fluid {
+  padding: 50px 80px !important;
+}
+.main-page-text {
+  font-size: 25px;
+}
+.main-page-text2 {
+  font-size: 20px;
+}
+
+/* Carousel */
+.top-carousel {
+  padding: 0 0 20px 0 !important;
+}
+.carousel-main {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Social Media */
+.instagram-media {
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+/* Text */
+h2 {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+}
+h3 {
+  font-size: 40px;
+  font-style: oblique;
+}
+.main-page-text {
+  padding-top: 10px;
+  font-size: 25px;
+  line-height: 1.5;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px 100px;
+}
+.media-footer {
+  font-size: 20px;
+  padding: 0 10px;
+}
+.col {
+  text-align: left;
+}
+.img-footer {
+  width: 100%;
+  padding-right: 30px;
+}
+.copyright {
+  text-align: center;
+}
+.image-note {
+  font-size: 13px;
+}
